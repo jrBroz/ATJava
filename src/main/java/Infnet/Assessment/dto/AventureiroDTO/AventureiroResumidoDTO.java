@@ -6,4 +6,4 @@ public record AventureiroResumidoDTO(
     ClasseAventureiro classe,
     Integer nivel,
     Boolean ativo
-) {}
+) {} //
